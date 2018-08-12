@@ -45,7 +45,7 @@ The navigation bar gets it's fair share of optimization.
 
 ![alt text](https://i.gyazo.com/95e832bc4e4c5f3f3bfb76fc9c9ad325.png)
 
-I hope you enjoyed this rundown. I will be the first one to admit that the code doesn't look that pretty, but meanwhile I am looking deeper into that topic. 
+I hope you enjoyed this rundown.
 
 I wish you a nice day. 
 
