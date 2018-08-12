@@ -1,4 +1,4 @@
 <b>Project 1: First Steps # VEIMEO</b>
 
-The process of learning involves destructive behaviour. In my case, it was not much different. After hours of work, that culminated with
-the sentence "Well, 
+The process of learning involves destructive behaviour. In my case, that couldn't be closer to the truth. After hours of work, that culminated with the sentence "Well, there is definitely a way to do this better." I decided to not pursue anything anymore and lay this
+little project mine to rest.
