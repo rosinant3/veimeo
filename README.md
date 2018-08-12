@@ -43,5 +43,5 @@ For really small screens, the site is a reduces representation of the main areas
 
 The navigation bar gets it's fair share of optimization.
 
-![alt text](https://gyazo.com/5d30bf10098aa0d1c892a89c6645c078) ![alt text](https://i.gyazo.com/5d30bf10098aa0d1c892a89c6645c078.png)
+![alt text](https://i.gyazo.com/95e832bc4e4c5f3f3bfb76fc9c9ad325.png) ![alt text](https://i.gyazo.com/5d30bf10098aa0d1c892a89c6645c078.png)
 
