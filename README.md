@@ -11,3 +11,5 @@ The site is made using a combination of JS and HTML. Some of the elements are ge
 
 The site features a navigation bar with a custom made dropdown menu, a search bar that resizes depending on the screen size and a full responsive background video that plays automatically on load. For smaller screen sizes, it includes another nav-bar with removed unnecessary text. CSS gimmics include, onFocus, onHover effects for the respective buttons, forms and text.
 
+![alt text](https://i.gyazo.com/969f4f15a5af4da03c1f5e867aca79c4.png)
+
