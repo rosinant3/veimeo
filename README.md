@@ -30,3 +30,14 @@ The rest of the page are list, sections, text aligments that are easy once someo
 ![alt text](https://i.gyazo.com/306c282305926d5d8a032f4dc92793aa.png)
 
 The bottom part of the site for smaller screen sizes transforms some unordered lists into a dropdown menu that is implemented with hiding the overflow and changing the height of the div when a user clicks on it, and changing it back to the original size once the user decides that the list doesn't suit his needs.
+
+![alt text](https://i.gyazo.com/5d3fc5357edb8968613423c7b9d0930a.png)
+
+Scrolling up the page on smaller screen sizes we observe the already mentioned adjusments.
+
+![alt text](https://i.gyazo.com/a0992963d290ff244d5255f411507050.png)
+
+For really small screens, the site is a reduces representation of the main areas of focus/interest.
+
+![alt text](https://i.gyazo.com/620583e9333e9e794af96e8c6493ec3e.png)
+
