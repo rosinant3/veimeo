@@ -25,7 +25,7 @@ After the videos, we have a slideshow that changes in set intervals. It was rela
 
 ![alt text](https://i.gyazo.com/efa32741920018d06d3f539827c1854e.png)
 
-The rest of the page are list, sections, text aligments that are easy once someone understand the different ways to center items using CSS.
+The rest of the page are lists, sections and text aligments.
 
 ![alt text](https://i.gyazo.com/306c282305926d5d8a032f4dc92793aa.png)
 
