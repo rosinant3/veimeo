@@ -22,3 +22,11 @@ The next section is a video player that plays 3 videos in a loop with buttons th
 ![alt text](https://i.gyazo.com/207288ce94759678d1ad0d2688746d8f.png)
 
 After the videos, we have a slideshow that changes in set intervals. It was relatively easy to implement, because it has only five elements that are always on the screen. The trick is to, with every click, get the info of the element position and shift that position to the left or the right. Clicking on the slideshow navigation interrupts the interval, that only plays again on page reload.
+
+![alt text](https://i.gyazo.com/efa32741920018d06d3f539827c1854e.png)
+
+The rest of the page are list, sections, text aligments that are easy once someone understand the different ways to center items using CSS.
+
+![alt text](https://i.gyazo.com/306c282305926d5d8a032f4dc92793aa.png)
+
+The bottom part of the site for smaller screen sizes transforms some unordered lists into a dropdown menu that is implemented with hiding the overflow and changing the height of the div when a user clicks on it, and changing it back to the original size once the user decides that the list doesn't suit his needs.
