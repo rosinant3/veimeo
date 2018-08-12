@@ -13,3 +13,12 @@ The site features a navigation bar with a custom made dropdown menu, a search ba
 
 ![alt text](https://i.gyazo.com/969f4f15a5af4da03c1f5e867aca79c4.png)
 
+Whiel scrolling the navigation bar will stay fixed on top with it's alpha value changed for better visibility. The grid shows on the last picture is made using JS Classes and completely generated with JavaScript, because I wanted to make slight adjusments and a little experimentation with the resize event listener. The grid changes to a 3x5 grid, with some slight adjusments that are/were necessary in order to have the whole container centered. Thinking about it right now, there is probably a better solution to this, but it ended up being a pretty nice exercise. When scrolling over the "video links", some additinal video info is displayed.
+
+![alt text](https://i.gyazo.com/74c92901f57c74fb070580b9fd3255ab.jpg)
+
+The next section is a video player that plays 3 videos in a loop with buttons that allow user interaction. The specific thing about this video player is first, the fade away effect towards the end of every video, and second, the black screen behind it, that is only a simple gif behind the video, that creates the illusion that the video changed to black. On resize, this player scales down to a clickable slideshow, showing 3 pictures as a representation of the videos. 
+
+![alt text](https://i.gyazo.com/207288ce94759678d1ad0d2688746d8f.png)
+
+After the videos, we have a slideshow that changes in set intervals. It was relatively easy to implement, because it has only five elements that are always on the screen. The trick is to, with every click, get the info of the element position and shift that position to the left or the right. Clicking on the slideshow navigation interrupts the interval, that only plays again on page reload.
